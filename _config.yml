@@ -10,3 +10,5 @@ defaults:
       layout: page
 readme_index:
   with_frontmatter: true
+header_pages:
+  - README.md
