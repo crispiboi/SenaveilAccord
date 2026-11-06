@@ -1,0 +1,1 @@
+The home system of the Senaveil Accord. Its two settled worlds are [[Tellane]], the homeworld, and [[Alba]], settled by rocket before Trans-Newtonian technology. The scar of the near-miss on [[Witness]] is the reason for the Compact.

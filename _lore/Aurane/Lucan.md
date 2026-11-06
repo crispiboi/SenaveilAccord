@@ -1,0 +1,1 @@
+A founder's name from House Corvane, on the fourth largest of the six house moons, which run in founding order by size. Varenne would insist on that order, and Dunmere having the smallest suits its grievance. A moon of [[Sovrane]]. These are old astronomers' names from before the Ledger, so no marks were awarded.
