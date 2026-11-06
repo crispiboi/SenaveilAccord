@@ -8,3 +8,5 @@ defaults:
       path: ""
     values:
       layout: page
+readme_index:
+  with_frontmatter: true
