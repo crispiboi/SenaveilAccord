@@ -18,7 +18,7 @@ Moon. Aurane VII - Moon 17.
 
 ## Lore
 
-A founder's name from House Varenne, on the largest of the six house moons, which run in founding order by size. Varenne would insist on that order, and Dunmere having the smallest suits its grievance. A moon of [Regane](Regane.md). These are old astronomers' names from before the Ledger, so no marks were awarded.
+A founder's name from House [Varenne](../../Houses/Varenne.md), on the largest of the six house moons, which run in founding order by size. Varenne would insist on that order, and Dunmere having the smallest suits its grievance. A moon of [Regane](Regane.md). These are old astronomers' names from before the Ledger, so no marks were awarded.
 
 ## Physical data
 

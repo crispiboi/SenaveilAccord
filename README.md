@@ -13,3 +13,7 @@ generated_by: build_wiki
 ## Systems
 
 - [Aurane](Systems/Aurane/Aurane.md)
+
+## Houses
+
+- [Houses](Houses/Houses.md)
