@@ -19,8 +19,8 @@ generated_by: build_wiki
 ## Forces
 
 - [Navy](Forces/Navy.md)
-- [Ground forces](Forces/Ground%20forces.md)
-- [Officer corps](Forces/Officer%20corps.md)
+- [Ground forces](Forces/Ground-forces.md)
+- [Officer corps](Forces/Officer-corps.md)
 - [Medals](Forces/Medals.md)
 
 ## Houses
