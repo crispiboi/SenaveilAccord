@@ -78,8 +78,8 @@ Under Deputy for Survey, at [Tellane](../Systems/Aurane/Tellane.md).
 
 | Ship | Class | Type | Tonnage |
 | --- | --- | --- | --- |
-| Errant | Lodestar | Survey Vessel | 5,000 t |
-| Open Question | Lodestar | Survey Vessel | 5,000 t |
+| Errant | [Lodestar](Classes/Lodestar.md) | Survey Vessel | 5,000 t |
+| Open Question | [Lodestar](Classes/Lodestar.md) | Survey Vessel | 5,000 t |
 
 ### Sustainment Reserve
 
@@ -87,9 +87,9 @@ Under Deputy for Sustainment, at [Tellane](../Systems/Aurane/Tellane.md).
 
 | Ship | Class | Type | Tonnage |
 | --- | --- | --- | --- |
-| Wick 001 | Wick | Tanker | 25,300 t |
-| Wick 002 | Wick | Tanker | 25,300 t |
-| Tinder 001 | Tinder | Collier | 23,607 t |
+| Wick 001 | [Wick](Classes/Wick.md) | Tanker | 25,300 t |
+| Wick 002 | [Wick](Classes/Wick.md) | Tanker | 25,300 t |
+| Tinder 001 | [Tinder](Classes/Tinder.md) | Collier | 23,610 t |
 
 ### Cargo Fleet A
 
@@ -97,8 +97,8 @@ Under Convoy and Merchant Liaison, at [Tellane](../Systems/Aurane/Tellane.md).
 
 | Ship | Class | Type | Tonnage |
 | --- | --- | --- | --- |
-| Lamplighter 001 | Lamplighter | Cargo Ship | 40,349 t |
-| Lamplighter 002 | Lamplighter | Cargo Ship | 40,349 t |
+| Lamplighter 001 | [Lamplighter](Classes/Lamplighter.md) | Cargo Ship | 40,350 t |
+| Lamplighter 002 | [Lamplighter](Classes/Lamplighter.md) | Cargo Ship | 40,350 t |
 
 ### Colony Fleet A
 
@@ -106,8 +106,8 @@ Under Convoy and Merchant Liaison, at [Tellane](../Systems/Aurane/Tellane.md).
 
 | Ship | Class | Type | Tonnage |
 | --- | --- | --- | --- |
-| Homelight 001 | Homelight | Colony Ship | 27,770 t |
-| Homelight 002 | Homelight | Colony Ship | 27,770 t |
+| Homelight 001 | [Homelight](Classes/Homelight.md) | Colony Ship | 27,770 t |
+| Homelight 002 | [Homelight](Classes/Homelight.md) | Colony Ship | 27,770 t |
 
 ### Cargo Fleet B
 
@@ -115,8 +115,8 @@ Under Convoy and Merchant Liaison, at [Tellane](../Systems/Aurane/Tellane.md).
 
 | Ship | Class | Type | Tonnage |
 | --- | --- | --- | --- |
-| Lamplighter 003 | Lamplighter | Cargo Ship | 40,349 t |
-| Lamplighter 004 | Lamplighter | Cargo Ship | 40,349 t |
+| Lamplighter 003 | [Lamplighter](Classes/Lamplighter.md) | Cargo Ship | 40,350 t |
+| Lamplighter 004 | [Lamplighter](Classes/Lamplighter.md) | Cargo Ship | 40,350 t |
 
 ### Transport Fleet A
 
@@ -124,8 +124,8 @@ Under Convoy and Merchant Liaison.
 
 | Ship | Class | Type | Tonnage |
 | --- | --- | --- | --- |
-| Torchbearer 001 | Torchbearer | Troop Transport | 23,081 t |
-| Torchbearer 002 | Torchbearer | Troop Transport | 23,081 t |
+| Torchbearer 001 | [Torchbearer](Classes/Torchbearer.md) | Troop Transport | 23,080 t |
+| Torchbearer 002 | [Torchbearer](Classes/Torchbearer.md) | Troop Transport | 23,080 t |
 
 ### 1st Varenne Crown Squadron
 
@@ -133,16 +133,16 @@ Under Varenne Fleet, at [Tellane](../Systems/Aurane/Tellane.md).
 
 | Ship | Class | Type | Tonnage |
 | --- | --- | --- | --- |
-| Marchemont | Korrum | Cruiser | 19,999 t |
-| Orvaux | Korrum | Cruiser | 19,999 t |
-| Aubrac | Halvorsen | Light Cruiser | 13,999 t |
-| Bellefonds | Halvorsen | Light Cruiser | 13,999 t |
-| Parade | Corona | Destroyer | 9,999 t |
-| Riposte | Corona | Destroyer | 9,999 t |
-| CV-001 | Ember | Corvette | 999 t |
-| CV-002 | Ember | Corvette | 999 t |
-| CV-003 | Ember | Corvette | 999 t |
-| CV-004 | Ember | Corvette | 999 t |
+| Marchemont | [Korrum](Classes/Korrum.md) | Cruiser | 20,000 t |
+| Orvaux | [Korrum](Classes/Korrum.md) | Cruiser | 20,000 t |
+| Aubrac | [Halvorsen](Classes/Halvorsen.md) | Light Cruiser | 14,000 t |
+| Bellefonds | [Halvorsen](Classes/Halvorsen.md) | Light Cruiser | 14,000 t |
+| Parade | [Corona](Classes/Corona.md) | Destroyer | 10,000 t |
+| Riposte | [Corona](Classes/Corona.md) | Destroyer | 10,000 t |
+| CV-001 | [Ember](Classes/Ember.md) | Corvette | 1,000 t |
+| CV-002 | [Ember](Classes/Ember.md) | Corvette | 1,000 t |
+| CV-003 | [Ember](Classes/Ember.md) | Corvette | 1,000 t |
+| CV-004 | [Ember](Classes/Ember.md) | Corvette | 1,000 t |
 
 ### 2nd Ashgrove Scales Squadron
 
@@ -150,11 +150,11 @@ Under Ashgrove Fleet, at [Tellane](../Systems/Aurane/Tellane.md).
 
 | Ship | Class | Type | Tonnage |
 | --- | --- | --- | --- |
-| Prudence | Korrum | Cruiser | 19,999 t |
-| Justice | Halvorsen | Light Cruiser | 13,999 t |
-| Courtesy | Corona | Destroyer | 9,999 t |
-| CV-005 | Ember | Corvette | 999 t |
-| CV-006 | Ember | Corvette | 999 t |
+| Prudence | [Korrum](Classes/Korrum.md) | Cruiser | 20,000 t |
+| Justice | [Halvorsen](Classes/Halvorsen.md) | Light Cruiser | 14,000 t |
+| Courtesy | [Corona](Classes/Corona.md) | Destroyer | 10,000 t |
+| CV-005 | [Ember](Classes/Ember.md) | Corvette | 1,000 t |
+| CV-006 | [Ember](Classes/Ember.md) | Corvette | 1,000 t |
 
 ### 3rd Thalmere Anvil Squadron
 
@@ -162,10 +162,10 @@ Under Thalmere Fleet, at [Tellane](../Systems/Aurane/Tellane.md).
 
 | Ship | Class | Type | Tonnage |
 | --- | --- | --- | --- |
-| Coldwell Foundry | Halvorsen | Light Cruiser | 13,999 t |
-| Hammer | Corona | Destroyer | 9,999 t |
-| CV-007 | Ember | Corvette | 999 t |
-| CV-008 | Ember | Corvette | 999 t |
+| Coldwell Foundry | [Halvorsen](Classes/Halvorsen.md) | Light Cruiser | 14,000 t |
+| Hammer | [Corona](Classes/Corona.md) | Destroyer | 10,000 t |
+| CV-007 | [Ember](Classes/Ember.md) | Corvette | 1,000 t |
+| CV-008 | [Ember](Classes/Ember.md) | Corvette | 1,000 t |
 
 ### 4th Corvane Weaver Squadron
 
@@ -173,10 +173,10 @@ Under Corvane Fleet, at [Tellane](../Systems/Aurane/Tellane.md).
 
 | Ship | Class | Type | Tonnage |
 | --- | --- | --- | --- |
-| Axiom | Halvorsen | Light Cruiser | 13,999 t |
-| Astrolabe | Corona | Destroyer | 9,999 t |
-| CV-009 | Ember | Corvette | 999 t |
-| CV-010 | Ember | Corvette | 999 t |
+| Axiom | [Halvorsen](Classes/Halvorsen.md) | Light Cruiser | 14,000 t |
+| Astrolabe | [Corona](Classes/Corona.md) | Destroyer | 10,000 t |
+| CV-009 | [Ember](Classes/Ember.md) | Corvette | 1,000 t |
+| CV-010 | [Ember](Classes/Ember.md) | Corvette | 1,000 t |
 
 ### 5th Oskari Mariner Squadron
 
@@ -184,10 +184,10 @@ Under Oskari Fleet, at [Tellane](../Systems/Aurane/Tellane.md).
 
 | Ship | Class | Type | Tonnage |
 | --- | --- | --- | --- |
-| First Landing | Halvorsen | Light Cruiser | 13,999 t |
-| Tuuli | Corona | Destroyer | 9,999 t |
-| CV-013 | Ember | Corvette | 999 t |
-| CV-014 | Ember | Corvette | 999 t |
+| First Landing | [Halvorsen](Classes/Halvorsen.md) | Light Cruiser | 14,000 t |
+| Tuuli | [Corona](Classes/Corona.md) | Destroyer | 10,000 t |
+| CV-013 | [Ember](Classes/Ember.md) | Corvette | 1,000 t |
+| CV-014 | [Ember](Classes/Ember.md) | Corvette | 1,000 t |
 
 ### 6th Dunmere Hearth Squadron
 
@@ -195,10 +195,10 @@ Under Dunmere Fleet, at [Tellane](../Systems/Aurane/Tellane.md).
 
 | Ship | Class | Type | Tonnage |
 | --- | --- | --- | --- |
-| Dunbar Hold | Halvorsen | Light Cruiser | 13,999 t |
-| Old Morag | Corona | Destroyer | 9,999 t |
-| CV-011 | Ember | Corvette | 999 t |
-| CV-012 | Ember | Corvette | 999 t |
+| Dunbar Hold | [Halvorsen](Classes/Halvorsen.md) | Light Cruiser | 14,000 t |
+| Old Morag | [Corona](Classes/Corona.md) | Destroyer | 10,000 t |
+| CV-011 | [Ember](Classes/Ember.md) | Corvette | 1,000 t |
+| CV-012 | [Ember](Classes/Ember.md) | Corvette | 1,000 t |
 
 ### SV-01 Driftmark
 
@@ -206,7 +206,7 @@ Under Geological Survey Office, at [Tellane](../Systems/Aurane/Tellane.md).
 
 | Ship | Class | Type | Tonnage |
 | --- | --- | --- | --- |
-| Driftmark | Lodestar | Survey Vessel | 5,000 t |
+| Driftmark | [Lodestar](Classes/Lodestar.md) | Survey Vessel | 5,000 t |
 
 ### SV-02 Nadir
 
@@ -214,7 +214,7 @@ Under Gravitational Survey Office, at [Tellane](../Systems/Aurane/Tellane.md).
 
 | Ship | Class | Type | Tonnage |
 | --- | --- | --- | --- |
-| Nadir | Lodestar | Survey Vessel | 5,000 t |
+| Nadir | [Lodestar](Classes/Lodestar.md) | Survey Vessel | 5,000 t |
 
 ### SV-03 Unmapped
 
@@ -222,7 +222,7 @@ Under Geological Survey Office, at [Tellane](../Systems/Aurane/Tellane.md).
 
 | Ship | Class | Type | Tonnage |
 | --- | --- | --- | --- |
-| Unmapped | Lodestar | Survey Vessel | 5,000 t |
+| Unmapped | [Lodestar](Classes/Lodestar.md) | Survey Vessel | 5,000 t |
 
 ### SV-04 Far Ledger
 
@@ -230,19 +230,19 @@ Under Gravitational Survey Office, at [Tellane](../Systems/Aurane/Tellane.md).
 
 | Ship | Class | Type | Tonnage |
 | --- | --- | --- | --- |
-| Far Ledger | Lodestar | Survey Vessel | 5,000 t |
+| Far Ledger | [Lodestar](Classes/Lodestar.md) | Survey Vessel | 5,000 t |
 
 ## Ship classes
 
 | Class | Type | Tonnage | Maintenance | In service |
 | --- | --- | --- | --- | --- |
-| Tinder | Collier (CO) | 23,607 t | Military | 1 |
-| Korrum | Cruiser (CA) | 19,999 t | Military | 3 |
-| Halvorsen | Light Cruiser (CL) | 13,999 t | Military | 7 |
-| Corona | Destroyer (DD) | 9,999 t | Military | 7 |
-| Lodestar | Survey Vessel (SV) | 5,000 t | Military | 6 |
-| Ember | Corvette (CT) | 999 t | Military | 14 |
-| Lamplighter | Cargo Ship (FT) | 40,349 t | Commercial | 4 |
-| Homelight | Colony Ship (CS) | 27,770 t | Commercial | 2 |
-| Wick | Tanker (TK) | 25,300 t | Commercial | 2 |
-| Torchbearer | Troop Transport (TT) | 23,081 t | Commercial | 2 |
+| [Tinder](Classes/Tinder.md) | Collier (CO) | 23,610 t | Military | 1 |
+| [Korrum](Classes/Korrum.md) | Cruiser (CA) | 20,000 t | Military | 3 |
+| [Halvorsen](Classes/Halvorsen.md) | Light Cruiser (CL) | 14,000 t | Military | 7 |
+| [Corona](Classes/Corona.md) | Destroyer (DD) | 10,000 t | Military | 7 |
+| [Lodestar](Classes/Lodestar.md) | Survey Vessel (SV) | 5,000 t | Military | 6 |
+| [Ember](Classes/Ember.md) | Corvette (CT) | 1,000 t | Military | 14 |
+| [Lamplighter](Classes/Lamplighter.md) | Cargo Ship (FT) | 40,350 t | Commercial | 4 |
+| [Homelight](Classes/Homelight.md) | Colony Ship (CS) | 27,770 t | Commercial | 2 |
+| [Wick](Classes/Wick.md) | Tanker (TK) | 25,300 t | Commercial | 2 |
+| [Torchbearer](Classes/Torchbearer.md) | Troop Transport (TT) | 23,080 t | Commercial | 2 |
