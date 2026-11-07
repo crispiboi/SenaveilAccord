@@ -90,20 +90,40 @@ Its moon, [Witness](Witness.md), carries the scar of the near-miss.
 | Installation | Count |
 | --- | --- |
 | Automated Mine | 60 |
+| Cargo Shuttle Station | 1 |
 | Construction Factory | 720 |
+| Deep Space Tracking Station | 7 |
 | Financial Centre | 300 |
 | Fuel Refinery | 200 |
 | Ground Force Construction Complex | 8 |
+| Infrastructure | 200 |
 | Light Naval Factory | 80 |
 | Maintenance Facility | 300 |
+| Mass Driver | 1 |
+| Military Academy | 2 |
 | Mine | 700 |
+| Naval Headquarters | 1 |
 | Ordnance Factory | 200 |
+| Ordnance Transfer Station | 1 |
+| Refuelling Station | 1 |
 | Research Facility | 36 |
+| Spaceport | 1 |
 
 ### Stockpiles
 
 | Item | Amount |
 | --- | --- |
+| Duranium | 10,000 |
+| Neutronium | 6,000 |
+| Corbomite | 6,000 |
+| Tritanium | 9,000 |
+| Boronide | 8,000 |
+| Mercassium | 7,000 |
+| Vendarite | 4,000 |
+| Sorium | 6,000 |
+| Uridium | 7,000 |
+| Corundium | 7,000 |
+| Gallicite | 10,000 |
 | Fuel | 24,000,000 litres |
 | Maintenance supplies | 60,000 |
 
@@ -111,14 +131,33 @@ Its moon, [Witness](Witness.md), carries the scar of the near-miss.
 
 | Yard | Type | Slipways | Capacity |
 | --- | --- | --- | --- |
-| Brightdale Yard | Naval | 1 | 1,000 t |
-| Merryfield A.G. | Naval | 1 | 1,000 t |
-| Silverbrook Systems | Naval | 1 | 1,000 t |
-| Sweetdale Systems | Naval | 1 | 1,000 t |
-| Gentledale Corp. Shipyard | Commercial | 1 | 10,000 t |
-| Greenholm Shipyard Limited | Commercial | 1 | 10,000 t |
-| Sweetholm Navy Yard | Commercial | 1 | 10,000 t |
-| Stillfield Barge Co. | Type 4 | 1 | 1,000 t |
+| Coldwell Ironworks | Naval | 1 | 24,000 t |
+| Kivinen Oy | Naval | 1 | 5,000 t |
+| Maison Delacroix-Venn | Naval | 1 | 14,000 t |
+| Summerholm Shipwrights' Guild | Naval | 1 | 10,000 t |
+| Glenmorrow Colonial Co-op | Commercial | 1 | 28,000 t |
+| Hartsell Family Ironworks | Commercial | 1 | 41,000 t |
+| Twin Worlds Company | Commercial | 1 | 26,000 t |
+| Strathmere Kinworks | Type 4 | 4 | 1,000 t |
+
+## Fleets in orbit
+
+- 1st Varenne Crown Squadron
+- 2nd Ashgrove Scales Squadron
+- 3rd Thalmere Anvil Squadron
+- 4th Corvane Weaver Squadron
+- 5th Oskari Mariner Squadron
+- 6th Dunmere Hearth Squadron
+- Cargo Fleet A
+- Cargo Fleet B
+- Colony Fleet A
+- SV-01 Driftmark
+- SV-02 Nadir
+- SV-03 Unmapped
+- SV-04 Far Ledger
+- Survey Reserve
+- Sustainment Reserve
+- Terllane Reserve
 
 ## Moons (1)
 

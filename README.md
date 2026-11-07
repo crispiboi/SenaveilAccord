@@ -16,6 +16,13 @@ generated_by: build_wiki
 
 - [Aurane](Systems/Aurane/Aurane.md)
 
+## Forces
+
+- [Navy](Forces/Navy.md)
+- [Ground forces](Forces/Ground%20forces.md)
+- [Officer corps](Forces/Officer%20corps.md)
+- [Medals](Forces/Medals.md)
+
 ## Houses
 
 - [Houses](Houses/Houses.md)

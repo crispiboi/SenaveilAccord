@@ -31,7 +31,7 @@ Terrestrial planet. Aurane I.
 | Tidally locked | Yes |
 | Axial tilt | 0° |
 | Eccentricity | 0.01 |
-| Surface temperature | 1,442 °C |
+| Surface temperature | 1,441 °C |
 | Atmosphere | 13.20 atm, mostly Carbon Dioxide |
 | Dominant terrain | Cinnabar Wastes |
 
@@ -46,7 +46,7 @@ Terrestrial planet. Aurane I.
 
 | Factor | Tolerated | Here | Result |
 | --- | --- | --- | --- |
-| Temperature | -10 °C to 38 °C | 1,442 °C | Outside |
+| Temperature | -10 °C to 38 °C | 1,441 °C | Outside |
 | Gravity | 0.10 to 1.90 g | 0.69 g | Within |
 | Breathable gas | 0.10 to 0.30 atm | 0.000 atm | Outside |
 | Pressure | up to 4.00 atm | 13.20 atm | Outside |

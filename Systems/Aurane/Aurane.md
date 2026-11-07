@@ -32,7 +32,7 @@ System age: 7.0 billion years.
 
 | Planet | No. | Type | Orbit | Diameter | Gravity | Surface | Atmosphere | Moons | Colony |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Ardane](Ardane.md) | I | Terrestrial planet | 0.11 AU | 7,600 km | 0.69 g | 1,442 °C | 13.20 atm, mostly Carbon Dioxide | 0 |  |
+| [Ardane](Ardane.md) | I | Terrestrial planet | 0.11 AU | 7,600 km | 0.69 g | 1,441 °C | 13.20 atm, mostly Carbon Dioxide | 0 |  |
 | [Vesperane](Vesperane.md) | II | Terrestrial planet | 0.29 AU | 6,600 km | 0.77 g | 833 °C | 13.69 atm, mostly Carbon Dioxide | 0 |  |
 | [Tellane](Tellane.md) | III | Terrestrial planet | 0.84 AU | 17,200 km | 0.80 g | 6 °C | 0.62 atm, mostly Nitrogen | 1 | 900m |
 | [Alba](Alba.md) | IV | Terrestrial planet | 1.12 AU | 15,400 km | 1.47 g | 12 °C | 2.17 atm, mostly Nitrogen | 1 | 100m |

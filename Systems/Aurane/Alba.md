@@ -88,8 +88,11 @@ Trans-Newtonian technology makes the crossing routine. The trailblazers want the
 | Installation | Count |
 | --- | --- |
 | Automated Mine | 60 |
+| Cargo Shuttle Station | 1 |
 | Financial Centre | 100 |
+| Mass Driver | 1 |
 | Mine | 100 |
+| Spaceport | 1 |
 
 ## Moons (1)
 
