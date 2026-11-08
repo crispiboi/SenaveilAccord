@@ -23,6 +23,10 @@ Commanding officer of [Unmapped](../Ships/Unmapped.md), and the Wayfinders' find
 
 Exceptional at communications and survey. Capable in crew training and production.
 
+## Connections
+
+No patrons to speak of: every step of this career was earned.
+
 ## Systems discovered
 
 | Date | System |
