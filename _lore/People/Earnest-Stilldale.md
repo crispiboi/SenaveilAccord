@@ -1,0 +1,1 @@
+Commanding officer of [[Unmapped]], and the Wayfinders' finder of strange things. He charted Hestrel, the first stellar remnant, and Pyrrhel, a black hole. He also found both of the Accord's first alien ruins: a destroyed outpost on [[Nyrene II]] and a ruined colony on [[Phaedre II]], which earned him the Archaeologist, Class II.

@@ -1,0 +1,1 @@
+The Wayfinders' most prolific explorer. Commanding [[Far Ledger]], she has charted one empty or dim system after another, and her tenth discovery, Penwarre, made her the first officer awarded the Wayfinder's Compass, Class II.
