@@ -15,7 +15,20 @@ Sub-Lieutenant, commanding officer of [Far Ledger](../Ships/Far-Ledger.md).
 
 Born to [House Oskari](../Houses/Oskari.md), by surname.
 
-The Wayfinders' most prolific explorer. Commanding [Far Ledger](../Ships/Far-Ledger.md), she has charted one empty or dim system after another, and her tenth discovery, Penwarre, made her the first officer awarded the Wayfinder's Compass, Class II.
+Known as courteous, determined, friendly and self-confident.
+
+The Wayfinders' most prolific explorer. In command of [Far Ledger](../Ships/Far-Ledger.md), Lumiranta has charted one empty or dim system after another, and the tenth discovery, Penwarre, made Lumiranta the first officer awarded the Wayfinder's Compass, Class II.
+
+## Profile
+
+| Bonus | Abbreviation | Value |
+| --- | --- | --- |
+| Survey | SRV | +19% |
+| Logistics | LOG | +10% |
+| Crew Training | CTR | +5% |
+| Reaction | REAC | +5% |
+| Light Tactical | LTAC | +5% |
+| Political Reliability | POL | +5% |
 
 ## Systems discovered
 

@@ -15,7 +15,20 @@ Sub-Lieutenant, commanding officer of [Errant](../Ships/Errant.md).
 
 Born to [House Ashgrove](../Houses/Ashgrove.md), by surname.
 
-Commanding officer of [Errant](../Ships/Errant.md). She discovered Phaedre, whose first world holds the first trace of oxygen found beyond Aurane.
+Known as ambitious and war game enthusiast.
+
+Commanding officer of [Errant](../Ships/Errant.md), and the discoverer of Phaedre, whose first world holds the first trace of oxygen found beyond Aurane.
+
+## Profile
+
+| Bonus | Abbreviation | Value |
+| --- | --- | --- |
+| Survey | SRV | +17% |
+| Political Reliability | POL | +15% |
+| Crew Training | CTR | +5% |
+| Tactical | TAC | +5% |
+| Light Tactical | LTAC | +5% |
+| Production | PROD | +5% |
 
 ## Systems discovered
 
