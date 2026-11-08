@@ -15,7 +15,7 @@ Sub-Lieutenant, commanding officer of [Open Question](../Ships/Open-Question.md)
 
 Born to [House Varenne](../Houses/Varenne.md), by surname.
 
-Known as aggressive, partisan, problem-solver and war game enthusiast.
+Traits: Aggressive, Partisan, Problem-solver and War Game Enthusiast.
 
 Commanding officer of [Open Question](../Ships/Open-Question.md). Hautpierre found Quarrane through the jump point from Adrevel: the first sun-like star beyond Aurane, whose fourth world is the greatest found beyond Aurane. The close binary Laurelle followed.
 

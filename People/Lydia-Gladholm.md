@@ -15,7 +15,7 @@ Sub-Lieutenant, commanding officer of [Errant](../Ships/Errant.md).
 
 Born to [House Ashgrove](../Houses/Ashgrove.md), by surname.
 
-Known as ambitious and war game enthusiast.
+Traits: Ambitious and War Game Enthusiast.
 
 Commanding officer of [Errant](../Ships/Errant.md), and the discoverer of Phaedre, whose first world holds the first trace of oxygen found beyond Aurane.
 
