@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<!-- generated_by: build_wiki -->
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Zephrel system map</title>
+<style>
+  :root { --bg:#0b0e14; --panel:#151a23; --line:#2b3340; --text:#ece9e2; --muted:#a4abb6; --accent:#8fc0ec;
+          --terrestrial:#b57a30; --giant:#3f86cc; --moon:#c0709a; --colony:#7fd18c; --star:#fff1df; }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--text); font:15px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif; }
+  a { color:var(--accent); }
+  header { padding:14px 20px; border-bottom:1px solid var(--line); display:flex; flex-wrap:wrap; gap:6px 18px; align-items:baseline; }
+  h1 { font-size:20px; margin:0; font-weight:600; }
+  header span { color:var(--muted); font-size:13px; }
+  main { display:grid; grid-template-columns:minmax(0,1fr) 340px; min-height:calc(100vh - 57px); }
+  #stage { position:relative; min-width:0; }
+  svg { display:block; width:100%; height:calc(100vh - 57px); min-height:420px; cursor:grab; touch-action:none; }
+  svg.dragging { cursor:grabbing; }
+  .orbit { fill:none; stroke:var(--line); }
+  .label { fill:var(--text); font-size:15px; pointer-events:none; paint-order:stroke; stroke:var(--bg); stroke-width:4px; }
+  .body { cursor:pointer; outline:none; }
+  .body .ring { fill:none; stroke:transparent; stroke-width:2; }
+  .body:hover .ring, .body:focus-visible .ring { stroke:var(--text); }
+  .body.selected .ring { stroke:var(--accent); stroke-width:3; }
+  .controls { position:absolute; left:14px; top:14px; display:flex; flex-wrap:wrap; gap:6px; }
+  button { background:var(--panel); color:var(--text); border:1px solid var(--line); border-radius:6px; padding:5px 10px; font:inherit; font-size:13px; cursor:pointer; }
+  button:hover { border-color:var(--muted); }
+  button:focus-visible { outline:2px solid var(--accent); outline-offset:1px; }
+  .legend { position:absolute; left:14px; bottom:12px; display:flex; flex-wrap:wrap; gap:4px 14px; font-size:13px; color:var(--muted); pointer-events:none; }
+  .legend i { display:inline-block; width:10px; height:10px; border-radius:50%; margin-right:5px; }
+  .legend i.ringed { background:none; border:2px solid var(--colony); }
+  aside { background:var(--panel); border-left:1px solid var(--line); padding:16px 18px; overflow:auto; max-height:calc(100vh - 57px); }
+  aside h2 { font-size:18px; margin:0; }
+  #sub { color:var(--muted); font-size:13px; margin:2px 0 10px; }
+  table { border-collapse:collapse; width:100%; font-size:13px; margin:8px 0 10px; }
+  td { padding:3px 0; border-bottom:1px solid var(--line); vertical-align:top; }
+  td:first-child { color:var(--muted); padding-right:10px; white-space:nowrap; }
+  #blurb { margin:8px 0; font-size:14px; }
+  #actions { display:flex; flex-wrap:wrap; gap:8px; align-items:center; margin:8px 0 2px; }
+  h3 { font-size:12px; color:var(--muted); letter-spacing:.04em; text-transform:uppercase; margin:18px 0 4px; }
+  #list { list-style:none; margin:0; padding:0; font-size:14px; }
+  #list button { display:block; width:100%; text-align:left; background:none; border:none; border-radius:4px; padding:2px 6px; font-size:14px; }
+  #list button:hover { background:var(--line); }
+  #list .moon button { padding-left:22px; color:var(--muted); }
+  @media (max-width:800px) {
+    main { grid-template-columns:1fr; }
+    svg { height:68vh; }
+    aside { border-left:none; border-top:1px solid var(--line); max-height:none; }
+  }
+</style>
+</head>
+<body>
+<header>
+  <h1>Zephrel system map</h1>
+  <span id="note"></span>
+  <a href="Zephrel.html">System page</a>
+</header>
+<main>
+  <div id="stage">
+    <svg id="map" viewBox="0 0 1000 1000" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Map of named bodies"></svg>
+    <div class="controls">
+      <button id="back" hidden>Back to system</button>
+      <button id="spacing"></button>
+      <button id="reset">Reset view</button>
+    </div>
+    <div class="legend">
+      <span><i style="background:var(--terrestrial)"></i>Terrestrial</span>
+      <span><i style="background:var(--giant)"></i>Gas giant</span>
+      <span><i style="background:var(--moon)"></i>Moon</span>
+      <span><i class="ringed"></i>Colony</span>
+    </div>
+  </div>
+  <aside>
+    <h2 id="name"></h2>
+    <div id="sub"></div>
+    <div id="blurb"></div>
+    <table id="facts"></table>
+    <div id="actions"></div>
+    <h3>Named bodies</h3>
+    <ul id="list"></ul>
+  </aside>
+</main>
+<script>
+const DATA = {"star": {"name": "Zephrel"}, "date": "10 February 305", "bodies": []};
+const NS = "http://www.w3.org/2000/svg";
+const svg = document.getElementById("map");
+const byId = new Map(DATA.bodies.map(b => [b.id, b]));
+const moonsOf = id => DATA.bodies.filter(b => b.parent === id);
+const planets = DATA.bodies.filter(b => b.parent === null);
+let focus = null, selected = null, compressed = true, view = {x:0, y:0, w:1000, h:1000};
+
+function el(tag, attrs, parent) {
+  const node = document.createElementNS(NS, tag);
+  for (const key in attrs) node.setAttribute(key, attrs[key]);
+  if (parent) parent.appendChild(node);
+  return node;
+}
+function dotSize(body) {
+  const size = 5 + (Math.log10(body.diameter) - 3.4) * 7;
+  return Math.max(4, Math.min(size, 20));
+}
+function orbitRadius(distance, max) {
+  const share = compressed ? Math.sqrt(distance / max) : distance / max;
+  return 70 + share * 370;
+}
+function drawBody(body, x, y, size) {
+  const group = el("g", {class:"body", tabindex:0, role:"button", "aria-label":body.name, "data-id":body.id}, svg);
+  el("circle", {cx:x, cy:y, r:size + 14, fill:"transparent"}, group);
+  el("circle", {cx:x, cy:y, r:size, fill:"var(--" + body.kind + ")"}, group);
+  if (body.colony) el("circle", {cx:x, cy:y, r:size + 4, fill:"none", stroke:"var(--colony)", "stroke-width":2}, group);
+  el("circle", {class:"ring", cx:x, cy:y, r:size + 8}, group);
+  const label = el("text", {class:"label", x:x, y:y + size + 22, "text-anchor":"middle"}, svg);
+  label.textContent = body.name;
+  group.addEventListener("click", () => select(body));
+  group.addEventListener("dblclick", () => { if (moonsOf(body.id).length) openPlanet(body); });
+  group.addEventListener("keydown", event => {
+    if (event.key === "Enter" || event.key === " ") { event.preventDefault(); select(body); }
+  });
+}
+function draw() {
+  svg.replaceChildren();
+  const centre = focus || null;
+  const bodies = centre ? moonsOf(centre.id) : planets;
+  const max = Math.max(...bodies.map(b => b.distance), 1);
+  for (const body of bodies) {
+    const radius = orbitRadius(body.distance, max);
+    el("circle", {class:"orbit", cx:500, cy:500, r:radius}, svg);
+  }
+  if (centre) {
+    drawBody(centre, 500, 500, 30);
+  } else {
+    el("circle", {cx:500, cy:500, r:20, fill:"var(--star)"}, svg);
+    const label = el("text", {class:"label", x:500, y:542, "text-anchor":"middle"}, svg);
+    label.textContent = DATA.star.name;
+  }
+  for (const body of bodies) {
+    const radius = orbitRadius(body.distance, max);
+    const angle = body.bearing * Math.PI / 180;
+    drawBody(body, 500 + radius * Math.sin(angle), 500 - radius * Math.cos(angle), dotSize(body));
+  }
+  document.getElementById("back").hidden = !centre;
+  document.getElementById("spacing").textContent = compressed ? "Spacing: compressed" : "Spacing: to scale";
+  document.getElementById("note").textContent = (centre
+    ? moonsOf(centre.id).length + " named of " + centre.moonsTotal + " moons of " + centre.name
+    : planets.length + " planets") + ". Positions at " + DATA.date + ". Body sizes are not to scale.";
+  markSelected();
+}
+function markSelected() {
+  svg.querySelectorAll(".body").forEach(g => g.classList.toggle("selected", selected && Number(g.dataset.id) === selected.id));
+}
+function select(body) {
+  selected = body;
+  document.getElementById("name").textContent = body.name;
+  document.getElementById("sub").textContent = body.summary;
+  document.getElementById("blurb").textContent = body.blurb;
+  const facts = document.getElementById("facts");
+  facts.replaceChildren();
+  for (const [key, value] of body.facts) {
+    const row = facts.insertRow();
+    row.insertCell().textContent = key;
+    row.insertCell().textContent = value;
+  }
+  const actions = document.getElementById("actions");
+  actions.replaceChildren();
+  if (moonsOf(body.id).length && focus !== body) {
+    const show = document.createElement("button");
+    show.textContent = "Show named moons (" + moonsOf(body.id).length + ")";
+    show.addEventListener("click", () => openPlanet(body));
+    actions.appendChild(show);
+  }
+  const link = document.createElement("a");
+  link.href = body.href;
+  link.textContent = "Full page";
+  actions.appendChild(link);
+  markSelected();
+}
+function openPlanet(body) { focus = body; resetView(); draw(); select(body); }
+function closePlanet() { focus = null; resetView(); draw(); }
+function resetView() { view = {x:0, y:0, w:1000, h:1000}; applyView(); }
+function applyView() { svg.setAttribute("viewBox", [view.x, view.y, view.w, view.h].join(" ")); }
+
+document.getElementById("back").addEventListener("click", closePlanet);
+document.getElementById("reset").addEventListener("click", resetView);
+document.getElementById("spacing").addEventListener("click", () => { compressed = !compressed; draw(); });
+svg.addEventListener("wheel", event => {
+  event.preventDefault();
+  const box = svg.getBoundingClientRect();
+  const scale = Math.max(view.w / box.width, view.h / box.height);
+  const px = view.x + view.w / 2 + (event.clientX - box.left - box.width / 2) * scale;
+  const py = view.y + view.h / 2 + (event.clientY - box.top - box.height / 2) * scale;
+  const factor = event.deltaY > 0 ? 1.2 : 1 / 1.2;
+  const width = Math.max(60, Math.min(1000, view.w * factor));
+  const ratio = width / view.w;
+  view = {x: px - (px - view.x) * ratio, y: py - (py - view.y) * ratio, w: width, h: width};
+  applyView();
+}, {passive:false});
+let drag = null;
+svg.addEventListener("pointerdown", event => {
+  if (event.target.closest(".body")) return;
+  drag = {x:event.clientX, y:event.clientY, vx:view.x, vy:view.y};
+  svg.setPointerCapture(event.pointerId);
+  svg.classList.add("dragging");
+});
+svg.addEventListener("pointermove", event => {
+  if (!drag) return;
+  const box = svg.getBoundingClientRect();
+  const scale = Math.max(view.w / box.width, view.h / box.height);
+  view.x = drag.vx - (event.clientX - drag.x) * scale;
+  view.y = drag.vy - (event.clientY - drag.y) * scale;
+  applyView();
+});
+svg.addEventListener("pointerup", () => { drag = null; svg.classList.remove("dragging"); });
+
+const list = document.getElementById("list");
+function addListItem(body, moon) {
+  const item = document.createElement("li");
+  if (moon) item.className = "moon";
+  const button = document.createElement("button");
+  button.textContent = body.name + (body.colony ? " (colony)" : "");
+  button.addEventListener("click", () => {
+    const home = moon ? byId.get(body.parent) : null;
+    if (home && focus !== home) { focus = home; resetView(); draw(); }
+    if (!home && focus) { focus = null; resetView(); draw(); }
+    select(body);
+  });
+  item.appendChild(button);
+  list.appendChild(item);
+}
+for (const planet of planets) {
+  addListItem(planet, false);
+  moonsOf(planet.id).forEach(moon => addListItem(moon, true));
+}
+draw();
+const first = DATA.bodies.find(b => b.capital) || planets[0];
+if (first) select(first); else document.getElementById("name").textContent = "No bodies in this system";
+</script>
+</body>
+</html>
