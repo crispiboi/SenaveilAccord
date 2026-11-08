@@ -21,7 +21,11 @@ Commanding officer of [Open Question](../Ships/Open-Question.md). Through the ju
 
 ## Skills
 
-Exceptional at logistics. Strong in survey, crew training, production, diplomacy and political reliability. Capable in intelligence.
+Exceptional at logistics. Strong in survey, crew training, production and diplomacy. Capable in intelligence.
+
+## Connections
+
+Well connected, with friends who speak up at promotion time.
 
 ## Systems discovered
 

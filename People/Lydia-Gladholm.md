@@ -21,7 +21,11 @@ Commanding officer of [Errant](../Ships/Errant.md). She discovered Phaedre, whos
 
 ## Skills
 
-Strong in survey and political reliability. Capable in crew training, tactical, light tactical and production.
+Strong in survey. Capable in crew training, tactical, light tactical and production.
+
+## Connections
+
+Well connected, with friends who speak up at promotion time.
 
 ## Systems discovered
 

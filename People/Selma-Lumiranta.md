@@ -21,7 +21,11 @@ The Wayfinders' most prolific explorer. Commanding [Far Ledger](../Ships/Far-Led
 
 ## Skills
 
-Strong in survey and logistics. Capable in crew training, reaction, light tactical and political reliability.
+Strong in survey and logistics. Capable in crew training, reaction and light tactical.
+
+## Connections
+
+Has a few useful connections.
 
 ## Systems discovered
 
