@@ -1,0 +1,1 @@
+Commanding officer of [[Beacon 001]], lost with his ship at [[Abernoth]] on 13 May 311 when an unknown ship armed with energy weapons destroyed her. He was the first officer of the Accord to die at a hostile hand.

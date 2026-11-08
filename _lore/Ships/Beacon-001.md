@@ -1,0 +1,1 @@
+STB-01, the first ship of the Beacon class, built to stabilise jump points. On 13 May 311 an unknown ship armed with energy weapons destroyed her at [[Abernoth]], with her commander, [[Octavian Paccius]], and 196 of her 250 crew. Lifepods carried 54 survivors clear. She was the Accord's first ship lost to a hostile hand.
