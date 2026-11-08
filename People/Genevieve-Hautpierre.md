@@ -13,6 +13,8 @@ generated_by: build_wiki
 
 Sub-Lieutenant, commanding officer of [Open Question](../Ships/Open-Question.md).
 
+Born to [House Varenne](../Houses/Varenne.md), by surname.
+
 Commanding officer of [Open Question](../Ships/Open-Question.md). Through the jump point from Adrevel she found Quarrane, the first sun-like star beyond Aurane, whose fourth world is the greatest found beyond Aurane. She later charted the close binary Laurelle.
 
 ## Systems discovered

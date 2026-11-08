@@ -13,6 +13,8 @@ generated_by: build_wiki
 
 Sub-Lieutenant, commanding officer of [Unmapped](../Ships/Unmapped.md).
 
+Born to [House Ashgrove](../Houses/Ashgrove.md), by surname.
+
 Commanding officer of [Unmapped](../Ships/Unmapped.md), and the Wayfinders' finder of strange things. He charted Hestrel, the first stellar remnant, and Pyrrhel, a black hole. He also found both of the Accord's first alien ruins: a destroyed outpost on [Nyrene II](../Systems/Nyrene/Nyrene-II.md) and a ruined colony on [Phaedre II](../Systems/Phaedre/Phaedre-II.md), which earned him the Archaeologist, Class II.
 
 ## Systems discovered

@@ -13,6 +13,8 @@ generated_by: build_wiki
 
 Sub-Lieutenant, commanding officer of [Far Ledger](../Ships/Far-Ledger.md).
 
+Born to [House Oskari](../Houses/Oskari.md), by surname.
+
 The Wayfinders' most prolific explorer. Commanding [Far Ledger](../Ships/Far-Ledger.md), she has charted one empty or dim system after another, and her tenth discovery, Penwarre, made her the first officer awarded the Wayfinder's Compass, Class II.
 
 ## Systems discovered
