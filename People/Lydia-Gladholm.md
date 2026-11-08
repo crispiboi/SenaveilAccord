@@ -17,7 +17,7 @@ Born to [House Ashgrove](../Houses/Ashgrove.md), by surname.
 
 Traits: Ambitious and War Game Enthusiast.
 
-Commanding officer of [Errant](../Ships/Errant.md), and the discoverer of Phaedre, whose first world holds the first trace of oxygen found beyond Aurane.
+Commanding officer of [Errant](../Ships/Errant.md). She discovered Phaedre, whose first world holds the first trace of oxygen found beyond Aurane.
 
 ## Skills
 

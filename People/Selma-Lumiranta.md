@@ -17,7 +17,7 @@ Born to [House Oskari](../Houses/Oskari.md), by surname.
 
 Traits: Courteous, Determined, Friendly and Self-confident.
 
-The Wayfinders' most prolific explorer. In command of [Far Ledger](../Ships/Far-Ledger.md), Lumiranta has charted one empty or dim system after another, and the tenth discovery, Penwarre, made Lumiranta the first officer awarded the Wayfinder's Compass, Class II.
+The Wayfinders' most prolific explorer. Commanding [Far Ledger](../Ships/Far-Ledger.md), she has charted one empty or dim system after another, and her tenth discovery, Penwarre, made her the first officer awarded the Wayfinder's Compass, Class II.
 
 ## Skills
 

@@ -1,1 +1,1 @@
-Commanding officer of [[Open Question]]. Hautpierre found Quarrane through the jump point from Adrevel: the first sun-like star beyond Aurane, whose fourth world is the greatest found beyond Aurane. The close binary Laurelle followed.
+Commanding officer of [[Open Question]]. Through the jump point from Adrevel she found Quarrane, the first sun-like star beyond Aurane, whose fourth world is the greatest found beyond Aurane. She later charted the close binary Laurelle.
