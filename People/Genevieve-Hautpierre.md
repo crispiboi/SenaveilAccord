@@ -19,17 +19,9 @@ Traits: Aggressive, Partisan, Problem-solver and War Game Enthusiast.
 
 Commanding officer of [Open Question](../Ships/Open-Question.md). Hautpierre found Quarrane through the jump point from Adrevel: the first sun-like star beyond Aurane, whose fourth world is the greatest found beyond Aurane. The close binary Laurelle followed.
 
-## Profile
+## Skills
 
-| Bonus | Abbreviation | Value |
-| --- | --- | --- |
-| Logistics | LOG | +25% |
-| Survey | SRV | +16% |
-| Crew Training | CTR | +10% |
-| Production | PROD | +10% |
-| Diplomacy | DIP | +10% |
-| Political Reliability | POL | +10% |
-| Intelligence | INT | +5% |
+Exceptional at logistics. Strong in survey, crew training, production, diplomacy and political reliability. Capable in intelligence.
 
 ## Systems discovered
 

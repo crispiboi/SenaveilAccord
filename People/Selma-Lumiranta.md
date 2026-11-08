@@ -19,16 +19,9 @@ Traits: Courteous, Determined, Friendly and Self-confident.
 
 The Wayfinders' most prolific explorer. In command of [Far Ledger](../Ships/Far-Ledger.md), Lumiranta has charted one empty or dim system after another, and the tenth discovery, Penwarre, made Lumiranta the first officer awarded the Wayfinder's Compass, Class II.
 
-## Profile
+## Skills
 
-| Bonus | Abbreviation | Value |
-| --- | --- | --- |
-| Survey | SRV | +19% |
-| Logistics | LOG | +10% |
-| Crew Training | CTR | +5% |
-| Reaction | REAC | +5% |
-| Light Tactical | LTAC | +5% |
-| Political Reliability | POL | +5% |
+Strong in survey and logistics. Capable in crew training, reaction, light tactical and political reliability.
 
 ## Systems discovered
 

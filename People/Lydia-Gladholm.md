@@ -19,16 +19,9 @@ Traits: Ambitious and War Game Enthusiast.
 
 Commanding officer of [Errant](../Ships/Errant.md), and the discoverer of Phaedre, whose first world holds the first trace of oxygen found beyond Aurane.
 
-## Profile
+## Skills
 
-| Bonus | Abbreviation | Value |
-| --- | --- | --- |
-| Survey | SRV | +17% |
-| Political Reliability | POL | +15% |
-| Crew Training | CTR | +5% |
-| Tactical | TAC | +5% |
-| Light Tactical | LTAC | +5% |
-| Production | PROD | +5% |
+Strong in survey and political reliability. Capable in crew training, tactical, light tactical and production.
 
 ## Systems discovered
 
