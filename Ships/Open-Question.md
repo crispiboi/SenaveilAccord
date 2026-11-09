@@ -13,8 +13,6 @@ generated_by: build_wiki
 
 [Lodestar 2A](../Forces/Classes/Lodestar-2A.md)-class survey vessel, in SV-05 Open Question. Commanding officer: Sub-Lieutenant Horatius Iunius.
 
-## Service history
-
 Survey vessel SV-05 under [Genevieve Hautpierre](../People/Genevieve-Hautpierre.md). She was the first ship to reach Quarrane.
 
 ## Systems discovered

@@ -16,11 +16,7 @@ generated_by: build_wiki
 
 [Open the interactive map](https://crispiboi.github.io/SenaveilAccord/Systems/Obrell/Obrell-map.html) · [Codex entry](Obrell-codex.md)
 
-## History
-
 An empty hall: the oldest star reached so far, with nothing in orbit around it. Obrell's only value is its jump points.
-
-Found on 9 September 301 by SV-04 Far Ledger under Sub-Lieutenant Selma Lumiranta, who was awarded the Wayfinder's Compass, Class III, for the discovery.
 
 ## Stars
 
@@ -43,3 +39,7 @@ System age: 8.0 billion years.
 | 6.36 AU | 90° | [Abernoth](../Abernoth/Abernoth.md) | Yes |
 | 8.45 AU | 197° | [Fiorell](../Fiorell/Fiorell.md) |  |
 | 9.69 AU | 114° | [Embrys](../Embrys/Embrys.md) |  |
+
+## History
+
+Found on 9 September 301 by SV-04 Far Ledger under Sub-Lieutenant Selma Lumiranta, who was awarded the Wayfinder's Compass, Class III, for the discovery.

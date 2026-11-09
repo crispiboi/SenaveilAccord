@@ -16,11 +16,7 @@ generated_by: build_wiki
 
 [Open the interactive map](https://crispiboi.github.io/SenaveilAccord/Systems/Yselle/Yselle-map.html) · [Codex entry](Yselle-codex.md)
 
-## History
-
 It matches [Dorrane](../Dorrane/Dorrane.md)'s star in class, mass and light, but holds a fraction of its court: one small gas giant, two asteroids and a comet.
-
-Found on 29 September 307 by SV-04 Far Ledger under Sub-Lieutenant Selma Lumiranta.
 
 ## Stars
 
@@ -50,3 +46,7 @@ System age: 9.0 billion years.
 | --- | --- | --- | --- |
 | 5.93 AU | 317° | Unexplored |  |
 | 14.37 AU | 224° | [Dorrane](../Dorrane/Dorrane.md) |  |
+
+## History
+
+Found on 29 September 307 by SV-04 Far Ledger under Sub-Lieutenant Selma Lumiranta.

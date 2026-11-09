@@ -16,11 +16,7 @@ generated_by: build_wiki
 
 [Open the interactive map](https://crispiboi.github.io/SenaveilAccord/Systems/Zephrel/Zephrel-map.html) · [Codex entry](Zephrel-codex.md)
 
-## History
-
 A failed star: too light ever to ignite, glowing only faintly with the heat of its own making, alone in an empty system.
-
-Found on 29 April 304 by SV-04 Far Ledger under Sub-Lieutenant Selma Lumiranta.
 
 ## Stars
 
@@ -40,3 +36,7 @@ System age: 10.0 billion years.
 | Distance | Bearing | Leads to | Gate |
 | --- | --- | --- | --- |
 | 1.02 AU | 85° | [Embrys](../Embrys/Embrys.md) |  |
+
+## History
+
+Found on 29 April 304 by SV-04 Far Ledger under Sub-Lieutenant Selma Lumiranta.

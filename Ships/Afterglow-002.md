@@ -13,6 +13,4 @@ generated_by: build_wiki
 
 *Not found among ships in service in the save: lost, scrapped, or renamed.*
 
-## Service history
-
 A salvager, destroyed at [Abernoth](../Systems/Abernoth/Abernoth.md) on 30 May 311 while making her slow retreat out of the system, five hours from the nearest warship. In little more than a minute, fire from eight energy guns that showed no hull crippled and destroyed her. Her commander, [Laban Greenbrook](../People/Laban-Greenbrook.md), was lost with her. Lifepods carried 78 of her 225 crew clear, and 147 died. She was the second ship lost to the Hollow, after [Beacon 001](Beacon-001.md).

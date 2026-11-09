@@ -16,11 +16,7 @@ generated_by: build_wiki
 
 [Open the interactive map](https://crispiboi.github.io/SenaveilAccord/Systems/Wistane/Wistane-map.html) · [Codex entry](Wistane-codex.md)
 
-## History
-
 It matches [Adrevel](../Adrevel/Adrevel.md)'s star in class and light, but keeps a far smaller court: two worlds and a single comet.
-
-Found on 7 April 311 by SV-01 Driftmark under Sub-Lieutenant Herbert Whitsell.
 
 ## Stars
 
@@ -49,3 +45,7 @@ System age: 7.0 billion years.
 | --- | --- | --- | --- |
 | 1.80 AU | 245° | Unexplored |  |
 | 2.86 AU | 188° | [Hestrel](../Hestrel/Hestrel.md) |  |
+
+## History
+
+Found on 7 April 311 by SV-01 Driftmark under Sub-Lieutenant Herbert Whitsell.

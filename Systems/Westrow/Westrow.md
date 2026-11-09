@@ -16,11 +16,7 @@ generated_by: build_wiki
 
 [Open the interactive map](https://crispiboi.github.io/SenaveilAccord/Systems/Westrow/Westrow-map.html) · [Codex entry](Westrow-codex.md)
 
-## History
-
 A twin of [Fiorell](../Fiorell/Fiorell.md)'s star, but where Fiorell keeps one small world, Westrow keeps a full court: three rocky worlds and a superjovian ringed by twenty moons.
-
-Found on 3 March 311 by SV-01 Driftmark under Sub-Lieutenant Herbert Whitsell. Westrow II, which can hold up to 5,204 million, is the best prospect in the system.
 
 ## Stars
 
@@ -44,3 +40,7 @@ System age: 9.0 billion years.
 | Distance | Bearing | Leads to | Gate |
 | --- | --- | --- | --- |
 | 21.99 AU | 90° | [Hestrel](../Hestrel/Hestrel.md) |  |
+
+## History
+
+Found on 3 March 311 by SV-01 Driftmark under Sub-Lieutenant Herbert Whitsell. Westrow II, which can hold up to 5,204 million, is the best prospect in the system.

@@ -16,11 +16,7 @@ generated_by: build_wiki
 
 [Open the interactive map](https://crispiboi.github.io/SenaveilAccord/Systems/Pyrrhel/Pyrrhel-map.html) · [Codex entry](Pyrrhel-codex.md)
 
-## History
-
 The youngest object the Wayfinders have charted, and the strangest: a star that died young and took its light with it.
-
-Found on 16 February 304 by SV-03 Unmapped under Sub-Lieutenant Earnest Stilldale.
 
 ## Stars
 
@@ -41,3 +37,7 @@ System age: 0.1 billion years.
 | --- | --- | --- | --- |
 | 2.91 AU | 199° | Unexplored |  |
 | 11.85 AU | 77° | [Duvessa](../Duvessa/Duvessa.md) |  |
+
+## History
+
+Found on 16 February 304 by SV-03 Unmapped under Sub-Lieutenant Earnest Stilldale.

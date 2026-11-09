@@ -16,11 +16,7 @@ generated_by: build_wiki
 
 [Open the interactive map](https://crispiboi.github.io/SenaveilAccord/Systems/Duvessa/Duvessa-map.html) · [Codex entry](Duvessa-codex.md)
 
-## History
-
 A dim and nearly empty hall, around the oldest star found so far.
-
-Found on 3 February 302 by SV-02 Nadir under Sub-Lieutenant Caroline Coldbridge.
 
 ## Stars
 
@@ -43,3 +39,7 @@ System age: 10.0 billion years.
 | 1.03 AU | 84° | [Abernoth](../Abernoth/Abernoth.md) |  |
 | 5.10 AU | 92° | [Pyrrhel](../Pyrrhel/Pyrrhel.md) |  |
 | 14.23 AU | 100° | [Phaedre](../Phaedre/Phaedre.md) |  |
+
+## History
+
+Found on 3 February 302 by SV-02 Nadir under Sub-Lieutenant Caroline Coldbridge.

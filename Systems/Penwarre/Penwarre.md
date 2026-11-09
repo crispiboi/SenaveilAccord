@@ -16,11 +16,7 @@ generated_by: build_wiki
 
 [Open the interactive map](https://crispiboi.github.io/SenaveilAccord/Systems/Penwarre/Penwarre-map.html) · [Codex entry](Penwarre-codex.md)
 
-## History
-
 A dim star with a cluttered court: three giants, two small rocks, and the richest field of asteroids found so far.
-
-Found on 14 October 307 by SV-04 Far Ledger under Sub-Lieutenant Selma Lumiranta. It was her tenth discovery, and it made her the first officer awarded the Wayfinder's Compass, Class II.
 
 ## Stars
 
@@ -247,3 +243,7 @@ System age: 5.0 billion years.
 | 9.03 AU | 108° | Unexplored |  |
 | 9.70 AU | 219° | Unexplored |  |
 | 15.63 AU | 286° | [Dorrane](../Dorrane/Dorrane.md) |  |
+
+## History
+
+Found on 14 October 307 by SV-04 Far Ledger under Sub-Lieutenant Selma Lumiranta. It was her tenth discovery, and it made her the first officer awarded the Wayfinder's Compass, Class II.

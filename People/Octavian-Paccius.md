@@ -15,6 +15,4 @@ generated_by: build_wiki
 
 Born to [House Corvane](../Houses/Corvane.md), by surname.
 
-## Biography
-
 Commanding officer of [Beacon 001](../Ships/Beacon-001.md), lost with his ship at [Abernoth](../Systems/Abernoth/Abernoth.md) on 13 May 311 when an unseen ship of the Hollow armed with energy weapons destroyed her. He was the first officer of the Accord to die at a hostile hand.

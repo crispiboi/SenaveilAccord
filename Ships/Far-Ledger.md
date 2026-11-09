@@ -13,8 +13,6 @@ generated_by: build_wiki
 
 [Lodestar 2A](../Forces/Classes/Lodestar-2A.md)-class survey vessel, in SV-04 Far Ledger. Commanding officer: Sub-Lieutenant Celsa Vibius.
 
-## Service history
-
 Survey vessel SV-04 under [Selma Lumiranta](../People/Selma-Lumiranta.md), the most travelled ship of the Wayfinders' survey group.
 
 ## Systems discovered

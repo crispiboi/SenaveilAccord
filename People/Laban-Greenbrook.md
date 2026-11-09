@@ -15,6 +15,4 @@ generated_by: build_wiki
 
 Born to [House Ashgrove](../Houses/Ashgrove.md), by surname.
 
-## Biography
-
 Commanding officer of the salvager [Afterglow 002](../Ships/Afterglow-002.md), lost with his ship at [Abernoth](../Systems/Abernoth/Abernoth.md) on 30 May 311, the second commander killed by the Hollow.

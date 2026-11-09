@@ -16,13 +16,7 @@ generated_by: build_wiki
 
 [Open the interactive map](https://crispiboi.github.io/SenaveilAccord/Systems/Phaedre/Phaedre-map.html) · [Codex entry](Phaedre-codex.md)
 
-## History
-
 A dim star with a modest court: two cold worlds close in, and a belt of 38 asteroids.
-
-Found on 22 October 306 by SV-06 Errant under Sub-Lieutenant Lydia Gladholm, who was awarded the Wayfinder's Compass, Class III, for the discovery.
-
-On 24 August 307 SV-03 Unmapped found a ruined alien colony on [Phaedre II](Phaedre-II.md), the second alien ruins found by the Accord after Nyrene II in [Nyrene](../Nyrene/Nyrene.md).
 
 ## Stars
 
@@ -87,3 +81,9 @@ System age: 4.0 billion years.
 | Distance | Bearing | Leads to | Gate |
 | --- | --- | --- | --- |
 | 1.82 AU | 269° | [Duvessa](../Duvessa/Duvessa.md) |  |
+
+## History
+
+Found on 22 October 306 by SV-06 Errant under Sub-Lieutenant Lydia Gladholm, who was awarded the Wayfinder's Compass, Class III, for the discovery.
+
+On 24 August 307 SV-03 Unmapped found a ruined alien colony on [Phaedre II](Phaedre-II.md), the second alien ruins found by the Accord after Nyrene II in [Nyrene](../Nyrene/Nyrene.md).

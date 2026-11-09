@@ -16,11 +16,7 @@ generated_by: build_wiki
 
 [Open the interactive map](https://crispiboi.github.io/SenaveilAccord/Systems/Seraphel/Seraphel-map.html) · [Codex entry](Seraphel-codex.md)
 
-## History
-
 A faint star with an outsized court: six planets, 17 moons and three comets, including a giant world that dwarfs Tellane.
-
-Found on 21 March 311 by SV-05 Open Question under Sub-Lieutenant Genevieve Hautpierre.
 
 ## Stars
 
@@ -55,3 +51,7 @@ System age: 3.0 billion years.
 | --- | --- | --- | --- |
 | 9.34 AU | 86° | Unexplored |  |
 | 9.53 AU | 347° | [Hestrel](../Hestrel/Hestrel.md) |  |
+
+## History
+
+Found on 21 March 311 by SV-05 Open Question under Sub-Lieutenant Genevieve Hautpierre.

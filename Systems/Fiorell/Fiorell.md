@@ -16,11 +16,7 @@ generated_by: build_wiki
 
 [Open the interactive map](https://crispiboi.github.io/SenaveilAccord/Systems/Fiorell/Fiorell-map.html) · [Codex entry](Fiorell-codex.md)
 
-## History
-
 Like [Cassiel](../Cassiel/Cassiel.md), a warmer star than the red dwarfs, but it keeps only one companion, a small hot world that can hold only 85 million.
-
-Found on 3 November 303 by SV-04 Far Ledger under Sub-Lieutenant Selma Lumiranta.
 
 ## Stars
 
@@ -42,3 +38,7 @@ System age: 9.0 billion years.
 | --- | --- | --- | --- |
 | 5.58 AU | 101° | Unexplored |  |
 | 7.08 AU | 266° | [Obrell](../Obrell/Obrell.md) |  |
+
+## History
+
+Found on 3 November 303 by SV-04 Far Ledger under Sub-Lieutenant Selma Lumiranta.

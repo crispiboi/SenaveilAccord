@@ -16,13 +16,7 @@ generated_by: build_wiki
 
 [Open the interactive map](https://crispiboi.github.io/SenaveilAccord/Systems/Quarrane/Quarrane-map.html) · [Codex entry](Quarrane-codex.md)
 
-## History
-
 After a run of red dwarfs and empty halls, a true sun, warm enough to light its worlds properly.
-
-Found on 4 April 303 by SV-05 Open Question under Sub-Lieutenant Genevieve Hautpierre, through the jump point from [Adrevel](../Adrevel/Adrevel.md), who was awarded the Wayfinder's Compass, Class III, for the discovery. Quarrane IV is the greatest world found beyond Aurane, and its maximum population of 28,331 million dwarfs every other candidate.
-
-Two wrecks of unknown class drift here, of 111,853 and 12,436 tons. Both match the tonnages of wrecks at [Abernoth](../Abernoth/Abernoth.md), so the same classes of ship were lost in both systems.
 
 ## Stars
 
@@ -64,3 +58,9 @@ System age: 9.0 billion years.
 | 20.14 AU | 226° | Unexplored |  |
 | 31.70 AU | 120° | Unexplored |  |
 | 32.60 AU | 338° | [Adrevel](../Adrevel/Adrevel.md) |  |
+
+## History
+
+Found on 4 April 303 by SV-05 Open Question under Sub-Lieutenant Genevieve Hautpierre, through the jump point from [Adrevel](../Adrevel/Adrevel.md), who was awarded the Wayfinder's Compass, Class III, for the discovery. Quarrane IV is the greatest world found beyond Aurane, and its maximum population of 28,331 million dwarfs every other candidate.
+
+Two wrecks of unknown class drift here, of 111,853 and 12,436 tons. Both match the tonnages of wrecks at [Abernoth](../Abernoth/Abernoth.md), so the same classes of ship were lost in both systems.

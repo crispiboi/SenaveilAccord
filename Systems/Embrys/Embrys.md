@@ -16,11 +16,7 @@ generated_by: build_wiki
 
 [Open the interactive map](https://crispiboi.github.io/SenaveilAccord/Systems/Embrys/Embrys-map.html) · [Codex entry](Embrys-codex.md)
 
-## History
-
 Barely a star at all, a coal that has never caught: the smallest and dimmest star yet found, alone in an empty system.
-
-Found on 26 November 303 by SV-04 Far Ledger under Sub-Lieutenant Selma Lumiranta.
 
 ## Stars
 
@@ -42,3 +38,7 @@ System age: 8.0 billion years.
 | 1.28 AU | 310° | [Zephrel](../Zephrel/Zephrel.md) |  |
 | 9.28 AU | 264° | Unexplored |  |
 | 12.05 AU | 186° | [Obrell](../Obrell/Obrell.md) |  |
+
+## History
+
+Found on 26 November 303 by SV-04 Far Ledger under Sub-Lieutenant Selma Lumiranta.

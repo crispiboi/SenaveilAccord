@@ -16,13 +16,7 @@ generated_by: build_wiki
 
 [Open the interactive map](https://crispiboi.github.io/SenaveilAccord/Systems/Nyrene/Nyrene-map.html) · [Codex entry](Nyrene-codex.md)
 
-## History
-
 The youngest true star yet charted and the brightest of the red dwarfs, with a crowded court stretching out to 3.66 billion km.
-
-Found on 6 May 305 by SV-04 Far Ledger under Sub-Lieutenant Selma Lumiranta. Nyrene II is the second-best colony prospect found so far, after [Quarrane](../Quarrane/Quarrane.md) IV.
-
-On 23 August 305 SV-03 Unmapped found the ruins of a destroyed alien outpost on [Nyrene II](Nyrene-II.md), the first alien ruins found by the Accord.
 
 ## Stars
 
@@ -58,3 +52,9 @@ System age: 2.0 billion years.
 | Distance | Bearing | Leads to | Gate |
 | --- | --- | --- | --- |
 | 12.42 AU | 177° | [Cassiel](../Cassiel/Cassiel.md) | Yes |
+
+## History
+
+Found on 6 May 305 by SV-04 Far Ledger under Sub-Lieutenant Selma Lumiranta. Nyrene II is the second-best colony prospect found so far, after [Quarrane](../Quarrane/Quarrane.md) IV.
+
+On 23 August 305 SV-03 Unmapped found the ruins of a destroyed alien outpost on [Nyrene II](Nyrene-II.md), the first alien ruins found by the Accord.

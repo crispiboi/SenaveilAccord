@@ -16,11 +16,7 @@ generated_by: build_wiki
 
 [Open the interactive map](https://crispiboi.github.io/SenaveilAccord/Systems/Adrevel/Adrevel-map.html) · [Codex entry](Adrevel-codex.md)
 
-## History
-
 Brighter than either of Abernoth's lamps, but its court is cold: four gas giants and a swarm of frozen moons around one scorched inner world.
-
-Found on 4 December 300 by SV-02 Nadir under Sub-Lieutenant Caroline Coldbridge, who was awarded the Wayfinder's Compass, Class III, for the discovery.
 
 ## Stars
 
@@ -47,3 +43,7 @@ System age: 4.0 billion years.
 | 3.99 AU | 124° | [Dorrane](../Dorrane/Dorrane.md) |  |
 | 10.88 AU | 51° | [Aurane](../Aurane/Aurane.md) |  |
 | 17.19 AU | 27° | [Quarrane](../Quarrane/Quarrane.md) |  |
+
+## History
+
+Found on 4 December 300 by SV-02 Nadir under Sub-Lieutenant Caroline Coldbridge, who was awarded the Wayfinder's Compass, Class III, for the discovery.

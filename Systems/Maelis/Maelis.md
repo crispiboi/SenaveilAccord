@@ -16,11 +16,7 @@ generated_by: build_wiki
 
 [Open the interactive map](https://crispiboi.github.io/SenaveilAccord/Systems/Maelis/Maelis-map.html) · [Codex entry](Maelis-codex.md)
 
-## History
-
 A near-twin of Ursaline-A, found just two weeks after [Ursaline](../Ursaline/Ursaline.md), and just as alone.
-
-Found on 5 June 305 by SV-04 Far Ledger under Sub-Lieutenant Selma Lumiranta, the latest in a long run of finds for Far Ledger.
 
 ## Stars
 
@@ -44,3 +40,7 @@ System age: 8.0 billion years.
 | 9.34 AU | 165° | Unexplored |  |
 | 13.58 AU | 332° | Unexplored |  |
 | 14.59 AU | 201° | Unexplored |  |
+
+## History
+
+Found on 5 June 305 by SV-04 Far Ledger under Sub-Lieutenant Selma Lumiranta, the latest in a long run of finds for Far Ledger.

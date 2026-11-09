@@ -13,6 +13,4 @@ generated_by: build_wiki
 
 *Not found among ships in service in the save: lost, scrapped, or renamed.*
 
-## Service history
-
 STB-01, the first ship of the Beacon class, built to stabilise jump points. On 13 May 311 an unseen ship of the Hollow armed with energy weapons destroyed her at [Abernoth](../Systems/Abernoth/Abernoth.md), with her commander, [Octavian Paccius](../People/Octavian-Paccius.md), and 196 of her 250 crew. Lifepods carried 54 survivors clear. She was the Accord's first ship lost to a hostile hand.

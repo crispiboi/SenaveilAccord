@@ -16,17 +16,7 @@ generated_by: build_wiki
 
 [Open the interactive map](https://crispiboi.github.io/SenaveilAccord/Systems/Aurane/Aurane-map.html) · [Codex entry](Aurane-codex.md)
 
-## History
-
 The home system of the Senaveil Accord. Its two settled worlds are [Tellane](Tellane.md), the homeworld, and [Alba](Alba.md), settled by rocket before Trans-Newtonian technology. The scar of the near-miss on [Witness](Witness.md) is the reason for the Compact.
-
-## Notable events
-
-**31 May to 6 June 313: first contact.** An alien ship appeared inside Aurane itself, showing openly on the Accord's sensors near [Pastorel](Pastorel.md), a vessel of the class the realm calls the Bassignano. The Admiralty filed its makers as the Pastorel Contact; the realm now names them the Hollow. The ship rated neutral and swept the system with an active sensor of its own. The Rochebrune and Haute-Serre strike groups launched their Embers, and Dunmere's Hearth Squadron sailed with them, but as the hunters closed, the stranger vanished from every plot.
-
-The next day it reappeared near [Alba](Alba.md), less than 100 million km from [Tellane](Tellane.md). In an emergency session two hours before the Embers would reach it, Varenne wanted the torpedoes loosed at once, and Ashgrove answered that the first word the Accord ever spoke to another people should not be a weapon. The Chancery carried the room: shadow it at 5 million km and answer only if fired upon. Its contact groups and the Lyceum's mathematicians settled the Accord's first words, prime numbers and simple sums sent across every frequency the corvettes could broadcast.
-
-The stranger refused every greeting. On 6 June, over Ashgrove's objection, the Admiralty was given leave to fire, and Ember 007 loosed the first shots the Accord has ever fired in anger. The Hollow ship burned torpedoes out of the sky with an energy weapon of the same strength as the fire that killed [Afterglow 002](../../Ships/Afterglow-002.md) at [Abernoth](../Abernoth/Abernoth.md), so every Ember launched together. One Keening torpedo from Ember 013 struck home and halved the stranger's speed, and showed it to be barely 957 tons, smaller than the old search arrays were built to see, as the Lyceum had predicted. Cruisers were sent to finish it. They found it dead in the water and still bleeding heat, and then it was gone from under the guns of three squadrons, without even a wreck.
 
 ## Stars
 
@@ -85,3 +75,11 @@ System age: 7.0 billion years.
 | [Welholm Resources Limited](Asteroid--20.md) | 0 million |  |
 | [Fletcher Minerals Limited](Asteroid--25.md) | 0 million |  |
 | [Pastorel](Pastorel.md) | 0 million |  |
+
+## Notable events
+
+**31 May to 6 June 313: first contact.** An alien ship appeared inside Aurane itself, showing openly on the Accord's sensors near [Pastorel](Pastorel.md), a vessel of the class the realm calls the Bassignano. The Admiralty filed its makers as the Pastorel Contact; the realm now names them the Hollow. The ship rated neutral and swept the system with an active sensor of its own. The Rochebrune and Haute-Serre strike groups launched their Embers, and Dunmere's Hearth Squadron sailed with them, but as the hunters closed, the stranger vanished from every plot.
+
+The next day it reappeared near [Alba](Alba.md), less than 100 million km from [Tellane](Tellane.md). In an emergency session two hours before the Embers would reach it, Varenne wanted the torpedoes loosed at once, and Ashgrove answered that the first word the Accord ever spoke to another people should not be a weapon. The Chancery carried the room: shadow it at 5 million km and answer only if fired upon. Its contact groups and the Lyceum's mathematicians settled the Accord's first words, prime numbers and simple sums sent across every frequency the corvettes could broadcast.
+
+The stranger refused every greeting. On 6 June, over Ashgrove's objection, the Admiralty was given leave to fire, and Ember 007 loosed the first shots the Accord has ever fired in anger. The Hollow ship burned torpedoes out of the sky with an energy weapon of the same strength as the fire that killed [Afterglow 002](../../Ships/Afterglow-002.md) at [Abernoth](../Abernoth/Abernoth.md), so every Ember launched together. One Keening torpedo from Ember 013 struck home and halved the stranger's speed, and showed it to be barely 957 tons, smaller than the old search arrays were built to see, as the Lyceum had predicted. Cruisers were sent to finish it. They found it dead in the water and still bleeding heat, and then it was gone from under the guns of three squadrons, without even a wreck.

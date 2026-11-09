@@ -16,11 +16,7 @@ generated_by: build_wiki
 
 [Open the interactive map](https://crispiboi.github.io/SenaveilAccord/Systems/Hestrel/Hestrel-map.html) · [Codex entry](Hestrel-codex.md)
 
-## History
-
 The dead ember of a star: the first stellar remnant found by the Wayfinders, the mass of a sun crushed to the size of a world, with nothing left around it but twelve comets.
-
-Found on 5 October 303 by SV-03 Unmapped under Sub-Lieutenant Earnest Stilldale, who was awarded the Wayfinder's Compass, Class III, for the discovery.
 
 ## Stars
 
@@ -60,3 +56,7 @@ System age: 4.0 billion years.
 | 8.28 AU | 35° | [Obrell](../Obrell/Obrell.md) |  |
 | 20.74 AU | 168° | [Wistane](../Wistane/Wistane.md) |  |
 | 25.80 AU | 147° | [Seraphel](../Seraphel/Seraphel.md) |  |
+
+## History
+
+Found on 5 October 303 by SV-03 Unmapped under Sub-Lieutenant Earnest Stilldale, who was awarded the Wayfinder's Compass, Class III, for the discovery.

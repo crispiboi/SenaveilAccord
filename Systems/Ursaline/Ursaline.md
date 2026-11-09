@@ -16,11 +16,7 @@ generated_by: build_wiki
 
 [Open the interactive map](https://crispiboi.github.io/SenaveilAccord/Systems/Ursaline/Ursaline-map.html) · [Codex entry](Ursaline-codex.md)
 
-## History
-
 Two dim lamps and no one to light: a pair of red dwarfs circling each other, with nothing else in the system.
-
-Found on 21 May 305 by SV-04 Far Ledger under Sub-Lieutenant Selma Lumiranta.
 
 ## Stars
 
@@ -41,3 +37,7 @@ System age: 9.0 billion years.
 | Distance | Bearing | Leads to | Gate |
 | --- | --- | --- | --- |
 | 13.95 AU | 311° | [Cassiel](../Cassiel/Cassiel.md) |  |
+
+## History
+
+Found on 21 May 305 by SV-04 Far Ledger under Sub-Lieutenant Selma Lumiranta.

@@ -16,11 +16,7 @@ generated_by: build_wiki
 
 [Open the interactive map](https://crispiboi.github.io/SenaveilAccord/Systems/Laurelle/Laurelle-map.html) · [Codex entry](Laurelle-codex.md)
 
-## History
-
 Twins of [Abernoth](../Abernoth/Abernoth.md)'s stars in class, mass and light, but bound far closer, circling each other once a year, and no worlds formed around them.
-
-Found on 1 October 307 by SV-05 Open Question under Sub-Lieutenant Genevieve Hautpierre.
 
 ## Stars
 
@@ -42,3 +38,7 @@ System age: 10.0 billion years.
 | --- | --- | --- | --- |
 | 12.44 AU | 34° | [Dorrane](../Dorrane/Dorrane.md) |  |
 | 17.57 AU | 3° | Unexplored |  |
+
+## History
+
+Found on 1 October 307 by SV-05 Open Question under Sub-Lieutenant Genevieve Hautpierre.

@@ -16,11 +16,7 @@ generated_by: build_wiki
 
 [Open the interactive map](https://crispiboi.github.io/SenaveilAccord/Systems/Cassiel/Cassiel-map.html) · [Codex entry](Cassiel-codex.md)
 
-## History
-
 The first star found beyond Aurane that is not a red dwarf, and by far the brightest, yet nothing orbits it.
-
-Found on 25 September 301 by SV-04 Far Ledger under Sub-Lieutenant Selma Lumiranta, the second empty system in a row.
 
 ## Stars
 
@@ -43,3 +39,7 @@ System age: 5.0 billion years.
 | 3.29 AU | 106° | [Ursaline](../Ursaline/Ursaline.md) |  |
 | 12.40 AU | 152° | [Abernoth](../Abernoth/Abernoth.md) | Yes |
 | 16.67 AU | 117° | [Maelis](../Maelis/Maelis.md) |  |
+
+## History
+
+Found on 25 September 301 by SV-04 Far Ledger under Sub-Lieutenant Selma Lumiranta, the second empty system in a row.

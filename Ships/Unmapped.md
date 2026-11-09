@@ -13,8 +13,6 @@ generated_by: build_wiki
 
 [Lodestar 2A](../Forces/Classes/Lodestar-2A.md)-class survey vessel, in SV-03 Unmapped. Commanding officer: Sub-Lieutenant Domitian Pinarius.
 
-## Service history
-
 Survey vessel SV-03 under [Earnest Stilldale](../People/Earnest-Stilldale.md). Her surveys found the Accord's first alien ruins, on Nyrene II and Phaedre II.
 
 ## Systems discovered

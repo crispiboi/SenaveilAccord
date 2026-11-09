@@ -15,8 +15,6 @@ generated_by: build_wiki
 
 Born to [House Ashgrove](../Houses/Ashgrove.md), by surname.
 
-## Biography
-
 Commanding officer of [Errant](../Ships/Errant.md). She discovered Phaedre, whose first world holds the first trace of oxygen found beyond Aurane.
 
 ## Systems discovered

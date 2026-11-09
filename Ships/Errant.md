@@ -13,8 +13,6 @@ generated_by: build_wiki
 
 [Lodestar 2A](../Forces/Classes/Lodestar-2A.md)-class survey vessel, in SV-06 Errant. Commanding officer: Sub-Lieutenant Galeria Cassianus.
 
-## Service history
-
 Survey vessel SV-06 under [Lydia Gladholm](../People/Lydia-Gladholm.md).
 
 ## Systems discovered
