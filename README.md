@@ -19,6 +19,7 @@ generated_by: build_wiki
 - [Nyrene](Systems/Nyrene/Nyrene.md)
 - [Penwarre](Systems/Penwarre/Penwarre.md)
 - [Phaedre](Systems/Phaedre/Phaedre.md)
+- [Quarrane](Systems/Quarrane/Quarrane.md)
 - [Seraphel](Systems/Seraphel/Seraphel.md)
 - [Wistane](Systems/Wistane/Wistane.md)
 
