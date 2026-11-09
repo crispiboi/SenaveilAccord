@@ -54,19 +54,15 @@ The tables below show the navy as the save records it, which may lag behind the 
       - **Jump Point Stabilisation Office** (Survey): Captain Matias Metsavuori
   - **Sustainment** (Logistics): Vice-Marshal Garrick Ironfield
     - **Deputy for Sustainment** (Logistics): Commodore Louise Verpierre
-      - *Sustainment Reserve*, 5 ships
-      - *STB-02 Beacon 002*, 1 ship
+      - *2 support fleets, 6 ships*
       - **Fuel and Tanker Office** (Logistics): Sealed Captain Satu Kivikoski
       - **Ordnance Supply Office** (Logistics): Sealed Captain Eldred Hartwick
       - **Maintenance and Repair Office** (Logistics): Sealed Captain Gamaliel Ashgrove
       - **Convoy and Merchant Liaison** (Logistics): Captain Niilo Torvaldsen
-        - *Cargo Fleet A*, 10 ships
-        - *Colony Fleet A*, 2 ships
-        - *Transport Fleet A*, 2 ships
-        - *Cargo Fleet B*, 10 ships
+        - *4 support fleets, 24 ships*
       - **Shipyard Liaison Office** (Industrial): Sealed Captain Olavi Tuulilahti
       - **Salvage and Recovery Office** (Industrial): Captain Apolline Champville
-        - *SV-01 Afterglow 001*, 1 ship
+        - *1 support fleet, 1 ship*
   - **Intelligence and Ordnance** (General): Vice-Marshal Ronja Jarvila
     - **Deputy for Intelligence and Ordnance** (General): Commodore Aki Ivarsen
       - **Naval Intelligence Office** (General): Sealed Captain Rachel Greenmead
@@ -91,53 +87,6 @@ Under Deputy for Survey, at [Tellane](../Systems/Aurane/Tellane.md).
 | --- | --- | --- | --- |
 | Afterglow 003 | [Afterglow](Classes/Afterglow.md) | Salvager | 50,570 t |
 | Nadir | [Lodestar 2A](Classes/Lodestar-2A.md) | Survey Vessel | 5,000 t |
-
-### Sustainment Reserve
-
-Under Deputy for Sustainment, at [Tellane](../Systems/Aurane/Tellane.md).
-
-| Ship | Class | Type | Tonnage |
-| --- | --- | --- | --- |
-| Beacon 003 | [Beacon](Classes/Beacon.md) | Stabilisation Ship | 70,920 t |
-| Taper 001 | [Taper](Classes/Taper.md) | Tug | 54,030 t |
-| Wick 001 | [Wick](Classes/Wick.md) | Tanker | 25,300 t |
-| Wick 002 | [Wick](Classes/Wick.md) | Tanker | 25,300 t |
-| Tinder 001 | [Tinder](Classes/Tinder.md) | Collier | 23,610 t |
-
-### Cargo Fleet A
-
-Under Convoy and Merchant Liaison, at [Tellane](../Systems/Aurane/Tellane.md).
-
-| Ship | Class | Type | Tonnage |
-| --- | --- | --- | --- |
-| Lamplighter 001 | [Lamplighter](Classes/Lamplighter.md) | Cargo Ship | 40,350 t |
-| Lamplighter 002 | [Lamplighter](Classes/Lamplighter.md) | Cargo Ship | 40,350 t |
-| Lamplighter 003 | [Lamplighter](Classes/Lamplighter.md) | Cargo Ship | 40,350 t |
-| Lamplighter 004 | [Lamplighter](Classes/Lamplighter.md) | Cargo Ship | 40,350 t |
-| Lamplighter 005 | [Lamplighter](Classes/Lamplighter.md) | Cargo Ship | 40,350 t |
-| Lamplighter 006 | [Lamplighter](Classes/Lamplighter.md) | Cargo Ship | 40,350 t |
-| Lamplighter 007 | [Lamplighter](Classes/Lamplighter.md) | Cargo Ship | 40,350 t |
-| Lamplighter 008 | [Lamplighter](Classes/Lamplighter.md) | Cargo Ship | 40,350 t |
-| Lamplighter 009 | [Lamplighter](Classes/Lamplighter.md) | Cargo Ship | 40,350 t |
-| Lamplighter 010 | [Lamplighter](Classes/Lamplighter.md) | Cargo Ship | 40,350 t |
-
-### Colony Fleet A
-
-Under Convoy and Merchant Liaison, at [Tellane](../Systems/Aurane/Tellane.md).
-
-| Ship | Class | Type | Tonnage |
-| --- | --- | --- | --- |
-| Homelight 001 | [Homelight](Classes/Homelight.md) | Colony Ship | 27,770 t |
-| Homelight 002 | [Homelight](Classes/Homelight.md) | Colony Ship | 27,770 t |
-
-### Transport Fleet A
-
-Under Convoy and Merchant Liaison, at [Tellane](../Systems/Aurane/Tellane.md).
-
-| Ship | Class | Type | Tonnage |
-| --- | --- | --- | --- |
-| Torchbearer 001 | [Torchbearer](Classes/Torchbearer.md) | Troop Transport | 23,080 t |
-| Torchbearer 002 | [Torchbearer](Classes/Torchbearer.md) | Troop Transport | 23,080 t |
 
 ### 3rd Thalmere Anvil Squadron
 
@@ -211,14 +160,6 @@ Under Gravitational Survey Office, at [Tellane](../Systems/Aurane/Tellane.md).
 | --- | --- | --- | --- |
 | Errant | [Lodestar 2A](Classes/Lodestar-2A.md) | Survey Vessel | 5,000 t |
 
-### SV-01 Afterglow 001
-
-Under Salvage and Recovery Office, at [Tellane](../Systems/Aurane/Tellane.md).
-
-| Ship | Class | Type | Tonnage |
-| --- | --- | --- | --- |
-| Afterglow 001 | [Afterglow](Classes/Afterglow.md) | Salvager | 50,570 t |
-
 ### SV-01 Driftmark
 
 Under Gravitational Survey Office, at [Tellane](../Systems/Aurane/Tellane.md).
@@ -251,31 +192,6 @@ Under The Line, at [Tellane](../Systems/Aurane/Tellane.md).
 | Ember 005 | [Ember 2A](Classes/Ember-2A.md) | Corvette | 1,000 t |
 | Ember 006 | [Ember 2A](Classes/Ember-2A.md) | Corvette | 1,000 t |
 
-### STB-02 Beacon 002
-
-Under Deputy for Sustainment, at [Tellane](../Systems/Aurane/Tellane.md).
-
-| Ship | Class | Type | Tonnage |
-| --- | --- | --- | --- |
-| Beacon 002 | [Beacon](Classes/Beacon.md) | Stabilisation Ship | 70,920 t |
-
-### Cargo Fleet B
-
-Under Convoy and Merchant Liaison, at [Tellane](../Systems/Aurane/Tellane.md).
-
-| Ship | Class | Type | Tonnage |
-| --- | --- | --- | --- |
-| Lamplighter 011 | [Lamplighter](Classes/Lamplighter.md) | Cargo Ship | 40,350 t |
-| Lamplighter 012 | [Lamplighter](Classes/Lamplighter.md) | Cargo Ship | 40,350 t |
-| Lamplighter 013 | [Lamplighter](Classes/Lamplighter.md) | Cargo Ship | 40,350 t |
-| Lamplighter 014 | [Lamplighter](Classes/Lamplighter.md) | Cargo Ship | 40,350 t |
-| Lamplighter 015 | [Lamplighter](Classes/Lamplighter.md) | Cargo Ship | 40,350 t |
-| Lamplighter 016 | [Lamplighter](Classes/Lamplighter.md) | Cargo Ship | 40,350 t |
-| Lamplighter 017 | [Lamplighter](Classes/Lamplighter.md) | Cargo Ship | 40,350 t |
-| Lamplighter 018 | [Lamplighter](Classes/Lamplighter.md) | Cargo Ship | 40,350 t |
-| Lamplighter 019 | [Lamplighter](Classes/Lamplighter.md) | Cargo Ship | 40,350 t |
-| Lamplighter 020 | [Lamplighter](Classes/Lamplighter.md) | Cargo Ship | 40,350 t |
-
 ### Strikegroup Alpha
 
 Under Thalmere Fleet, at [Tellane](../Systems/Aurane/Tellane.md).
@@ -286,6 +202,10 @@ Under Thalmere Fleet, at [Tellane](../Systems/Aurane/Tellane.md).
 | Ember 008 | [Ember 2A](Classes/Ember-2A.md) | Corvette | 1,000 t |
 | Ember 013 | [Ember 2A](Classes/Ember-2A.md) | Corvette | 1,000 t |
 | Ember 014 | [Ember 2A](Classes/Ember-2A.md) | Corvette | 1,000 t |
+
+### Sustainment
+
+31 support ships: 20 [Lamplighter](Classes/Lamplighter.md), 2 [Beacon](Classes/Beacon.md), 2 [Wick](Classes/Wick.md), 2 [Homelight](Classes/Homelight.md), 2 [Torchbearer](Classes/Torchbearer.md), 1 [Taper](Classes/Taper.md), 1 [Tinder](Classes/Tinder.md), 1 [Afterglow](Classes/Afterglow.md).
 
 ## Ship classes
 
