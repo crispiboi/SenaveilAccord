@@ -1,0 +1,36 @@
+{
+ "rank": "Sub-Lieutenant",
+ "post": "Open Question",
+ "traits": [
+  "Aggressive",
+  "Partisan",
+  "Problem-solver",
+  "War Game Enthusiast"
+ ],
+ "skills": "Exceptional at logistics. Strong in survey, crew training, production and diplomacy. Capable in intelligence.",
+ "connections": "Well connected, with friends who speak up at promotion time.",
+ "medals": [
+  [
+   "Long Service Bar 10 Years",
+   "Ten Years of Service"
+  ],
+  [
+   "Wayfinder's Compass Class III",
+   "Discover New Star System"
+  ]
+ ],
+ "history": [
+  [
+   "4 August 300",
+   "Assigned as Commanding Officer of SV-05 Open Question"
+  ],
+  [
+   "4 April 303",
+   "Awarded the Wayfinder's Compass Class III: Discover New Star System"
+  ],
+  [
+   "2 January 308",
+   "Awarded the Long Service Bar 10 Years: Ten Years of Service"
+  ]
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "rank": "Sub-Lieutenant",
+ "post": "Unmapped",
+ "traits": [
+  "Agreeable",
+  "Astronomy Geek",
+  "Impatient"
+ ],
+ "skills": "Exceptional at communications and survey. Capable in crew training and production.",
+ "connections": "No patrons to speak of: every step of this career was earned.",
+ "medals": [
+  [
+   "Long Service Bar 10 Years",
+   "Ten Years of Service"
+  ],
+  [
+   "Archaeologist class II",
+   "Discover Alien Ruins"
+  ],
+  [
+   "Wayfinder's Compass Class III",
+   "Discover New Star System"
+  ]
+ ],
+ "history": [
+  [
+   "4 August 300",
+   "Assigned as Commanding Officer of SV-03 Unmapped"
+  ],
+  [
+   "5 October 303",
+   "Awarded the Wayfinder's Compass Class III: Discover New Star System"
+  ],
+  [
+   "23 August 305",
+   "Awarded the Archaeologist class II: Discover Alien Ruins"
+  ],
+  [
+   "5 January 306",
+   "Awarded the Long Service Bar 10 Years: Ten Years of Service"
+  ]
+ ]
+}

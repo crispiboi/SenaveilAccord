@@ -1,0 +1,52 @@
+{
+ "rank": "Sub-Lieutenant",
+ "post": "Far Ledger",
+ "traits": [
+  "Courteous",
+  "Determined",
+  "Friendly",
+  "Self-confident"
+ ],
+ "skills": "Exceptional at survey. Strong in logistics. Capable in crew training, reaction and light tactical.",
+ "connections": "Has a few useful connections.",
+ "medals": [
+  [
+   "Long Service Bar 10 Years",
+   "Ten Years of Service"
+  ],
+  [
+   "Surveyor Special class II",
+   "Discover 10 Jump Points"
+  ],
+  [
+   "Wayfinder's Compass Class II",
+   "Discover 10 New Star Systems"
+  ],
+  [
+   "Wayfinder's Compass Class III",
+   "Discover New Star System"
+  ]
+ ],
+ "history": [
+  [
+   "4 August 300",
+   "Assigned as Commanding Officer of SV-04 Far Ledger"
+  ],
+  [
+   "9 September 301",
+   "Awarded the Wayfinder's Compass Class III: Discover New Star System"
+  ],
+  [
+   "6 October 305",
+   "Awarded the Surveyor Special class II: Discover 10 Jump Points"
+  ],
+  [
+   "5 January 306",
+   "Awarded the Long Service Bar 10 Years: Ten Years of Service"
+  ],
+  [
+   "14 October 307",
+   "Awarded the Wayfinder's Compass Class II: Discover 10 New Star Systems"
+  ]
+ ]
+}

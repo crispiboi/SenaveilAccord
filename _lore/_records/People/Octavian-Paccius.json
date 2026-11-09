@@ -1,0 +1,38 @@
+{
+ "rank": "Midshipman",
+ "post": "Beacon 001",
+ "traits": [
+  "Martial Artist",
+  "Rude"
+ ],
+ "skills": "Exceptional at production and crew training. Strong in light tactical.",
+ "connections": "Very well connected: patrons in high places smooth every step of a career.",
+ "medals": [
+  [
+   "Stabilization class I",
+   "Stabilise 3 Jump Points or Lagrange Points"
+  ],
+  [
+   "Stabilization class II",
+   "Stabilise 1 Jump Point or Lagrange Point"
+  ]
+ ],
+ "history": [
+  [
+   "16 September 306",
+   "Promoted to Midshipman"
+  ],
+  [
+   "10 September 307",
+   "Assigned as Commanding Officer of STB-01 Beacon 001"
+  ],
+  [
+   "12 February 308",
+   "Awarded the Stabilization class II: Stabilise 1 Jump Point or Lagrange Point"
+  ],
+  [
+   "15 November 308",
+   "Awarded the Stabilization class I: Stabilise 3 Jump Points or Lagrange Points"
+  ]
+ ]
+}

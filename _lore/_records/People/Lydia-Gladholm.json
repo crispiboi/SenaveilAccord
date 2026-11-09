@@ -1,0 +1,34 @@
+{
+ "rank": "Sub-Lieutenant",
+ "post": "Errant",
+ "traits": [
+  "Ambitious",
+  "War Game Enthusiast"
+ ],
+ "skills": "Strong in survey. Capable in crew training, tactical, light tactical and production.",
+ "connections": "Well connected, with friends who speak up at promotion time.",
+ "medals": [
+  [
+   "Long Service Bar 10 Years",
+   "Ten Years of Service"
+  ],
+  [
+   "Wayfinder's Compass Class III",
+   "Discover New Star System"
+  ]
+ ],
+ "history": [
+  [
+   "14 March 301",
+   "Assigned as Commanding Officer of SV-06 Errant"
+  ],
+  [
+   "22 October 306",
+   "Awarded the Wayfinder's Compass Class III: Discover New Star System"
+  ],
+  [
+   "31 December 308",
+   "Awarded the Long Service Bar 10 Years: Ten Years of Service"
+  ]
+ ]
+}
