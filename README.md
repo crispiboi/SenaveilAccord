@@ -12,32 +12,17 @@ generated_by: build_wiki
 
 [Read this wiki as a website](https://crispiboi.github.io/SenaveilAccord/)
 
-## Systems
+## Notable systems
 
-- [The Wayfinders' Register](Systems/Register.md)
 - [Abernoth](Systems/Abernoth/Abernoth.md)
-- [Adrevel](Systems/Adrevel/Adrevel.md)
 - [Aurane](Systems/Aurane/Aurane.md)
-- [Cassiel](Systems/Cassiel/Cassiel.md)
-- [Dorrane](Systems/Dorrane/Dorrane.md)
-- [Duvessa](Systems/Duvessa/Duvessa.md)
-- [Embrys](Systems/Embrys/Embrys.md)
-- [Fiorell](Systems/Fiorell/Fiorell.md)
-- [Hestrel](Systems/Hestrel/Hestrel.md)
-- [Laurelle](Systems/Laurelle/Laurelle.md)
-- [Maelis](Systems/Maelis/Maelis.md)
 - [Nyrene](Systems/Nyrene/Nyrene.md)
-- [Obrell](Systems/Obrell/Obrell.md)
 - [Penwarre](Systems/Penwarre/Penwarre.md)
 - [Phaedre](Systems/Phaedre/Phaedre.md)
-- [Pyrrhel](Systems/Pyrrhel/Pyrrhel.md)
-- [Quarrane](Systems/Quarrane/Quarrane.md)
 - [Seraphel](Systems/Seraphel/Seraphel.md)
-- [Ursaline](Systems/Ursaline/Ursaline.md)
-- [Westrow](Systems/Westrow/Westrow.md)
 - [Wistane](Systems/Wistane/Wistane.md)
-- [Yselle](Systems/Yselle/Yselle.md)
-- [Zephrel](Systems/Zephrel/Zephrel.md)
+
+Every charted system is listed in [The Wayfinders' Register](Systems/Register.md).
 
 ## Notables
 
