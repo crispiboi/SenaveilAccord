@@ -1,0 +1,1 @@
+The fleet carrier, named for a constellation as every carrier is. It carries, rearms and refuels the Ember strike wings so they can hit from a second direction. The first two hulls, Rochebrune and Haute-Serre, went to Varenne under the Admiralty's two-hull share of the rota.

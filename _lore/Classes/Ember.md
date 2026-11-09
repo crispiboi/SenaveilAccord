@@ -1,0 +1,1 @@
+The Accord's strike corvette, at the 1,000 t limit where a commander's light-tactical skill counts in full, which makes the corvettes the home of the aces. Each carries a box launcher of Keening Heavy Torpedoes for a single alpha strike, and the fleet's carriers rearm them. Corvettes take no names, only hull numbers.

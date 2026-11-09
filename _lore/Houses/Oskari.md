@@ -21,3 +21,17 @@ A trailblazer house. It paid to settle [[Alba]] and holds claims there, as well 
 - **House honour:** The Far Star, for daring firsts.
 - **Names:** Bright Nordic and Finnish, short and quick: Aarni, Tuuli, Halvorsen, Lumme.
 - **Ship names:** Journeys: great voyages and first landings on large ships, winds on small ones.
+
+## Voice
+
+**The bravest house in the Accord, and the most hopeful.** Oskari crossed to the second world on chemical rockets when that took months and might kill you, and it has never stopped going. Where Corvane wonders what is out there, Oskari goes to look. It is hardy and cheerful in hardship, and not reckless, just unafraid.
+
+**How it speaks:** warm, bright and plain. It speaks in "we" and means its crews, uses images of wind, roads and far shores, speaks of danger openly and without fear, and finds something hopeful in bad news.
+
+**In Council:** it argues for expansion, survey and going first. It often sides with Thalmere: Thalmere does the sums, Oskari volunteers. It volunteers its own people for the hard jobs and expects to be trusted with them.
+
+**First question in a crisis:** who goes?
+
+> "Every one of those systems was empty until someone went."
+>
+> "Thalmere says the odds are poor. Then send us. We've crossed worse."

@@ -1,0 +1,1 @@
+The carrier stands back behind its escorts, which makes it the right ship for the search sensors. The 2A carries the Institutum Quell EM-80 Great EM Sensor and the Lumme Series 540 R5 active sensor for small craft, and four F-35-27 magneto-plasma drives in place of six Ion drives.

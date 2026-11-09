@@ -38,3 +38,16 @@ Each house holds one of six contested Council offices: Admiralty, Wayfinders, Ma
 ## Two worlds
 
 All six houses live on [Tellane](../Systems/Aurane/Tellane.md). [Oskari](Oskari.md), [Dunmere](Dunmere.md) and [Thalmere](Thalmere.md) are the trailblazers who also paid to settle [Alba](../Systems/Aurane/Alba.md), and the claims they hold there are the first great dispute of the Trans-Newtonian age.
+
+## How the houses speak
+
+Every house speaks in Council as "we", and uses its house name only for formal statements and proclamations. The quickest way to tell them apart is the question each asks first when a crisis comes.
+
+| House | First question in a crisis |
+| --- | --- |
+| [Varenne](Varenne.md) | How do we stand together? |
+| [Ashgrove](Ashgrove.md) | Is it right? |
+| [Thalmere](Thalmere.md) | Does it add up? |
+| [Corvane](Corvane.md) | What could it mean? |
+| [Oskari](Oskari.md) | Who goes? |
+| [Dunmere](Dunmere.md) | Who is hurt, and what do we stand to lose? |

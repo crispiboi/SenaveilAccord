@@ -1,0 +1,1 @@
+The heavy cruiser, the brawler. It closes to beam range once enemy point defence or magazines are spent, finishes damaged ships, holds jump points and guards the carriers. Heavy cruisers take the old names of the home sky's brightest stars, and Korrum is the brightest star of the Anvil.

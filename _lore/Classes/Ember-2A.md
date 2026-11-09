@@ -1,0 +1,1 @@
+The 312 refit gave the Ember magneto-plasma drives, the MacAra Kinworks H-4-9 in place of the old Ion drives, so the corvettes can close on a target faster. The short-ranged Fairholm fire control stays for now. Embers of this mark launched the massed salvo that wounded the Hollow ship on 6 June 313.

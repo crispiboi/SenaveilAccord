@@ -1,0 +1,1 @@
+The 2A trades two Ion drives for a single Buchanan W-40-158 magneto-plasma drive built for economy. It cruises a little slower, but burns about a third of the fuel, so it can go roughly twice as far between refuellings, which matters more to a ship that spends years beyond the last port. It also gains a science department.
